@@ -1,0 +1,12 @@
+[filesystem "Private Build|17.0.7|/dev/sdc"]
+	timestampResolution = 3522 nanoseconds
+	minRacyThreshold = 15637 microseconds
+[filesystem "Private Build|17.0.9|/dev/sdc"]
+	timestampResolution = 2869 nanoseconds
+	minRacyThreshold = 19067 microseconds
+[filesystem "Private Build|21.0.1|/dev/sdc"]
+	timestampResolution = 30139 nanoseconds
+	minRacyThreshold = 19291 microseconds
+[filesystem "Private Build|18.0.2-ea|/dev/sdc"]
+	timestampResolution = 3399 nanoseconds
+	minRacyThreshold = 14668 microseconds
